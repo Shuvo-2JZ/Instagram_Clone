@@ -22,7 +22,7 @@ Go to this project directory
 ```
 ```
 type 'php artisan migrate'
-
+````
 
 ### Modules
 
